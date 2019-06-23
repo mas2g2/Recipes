@@ -1,5 +1,7 @@
 # Recipes
 
+For live demo click on : http://18.219.92.205
+
 In the home page of this function the user will enter ingredients that he or she wants to use for cooking
 and some suggestions for recipes will be provided lower in the page
 
