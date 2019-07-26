@@ -14,7 +14,7 @@ To download this code and run this code requirements and recommendations are:
 	- AWS EC2 Instance (Highly recommended)
 
 Before running this program also run the following commands:
-	```sudo service mysql tart```
+	```sudo service mysql start```
 
 This command will start the MySQL service for you to host your applicationn
 also run the following commands to add a user for your data base server
